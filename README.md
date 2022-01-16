@@ -4,7 +4,7 @@ Task day 1 - Prep course - JV
 # Who am I? 
 ![A random Picture](https://scontent.famm10-1.fna.fbcdn.net/v/t31.18172-8/22424395_1595378780513449_4449305658690181858_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=BuandQTwZtIAX8MotvA&_nc_ht=scontent.famm10-1.fna&oh=00_AT8EztPd9CjNhJLUbmbjK_3ouQUtKT5ShSWhw9P882TfIg&oe=6208A022)   
 I am Baraáh Abusara , An architect and a **very passionate programmer**.  
-Thant might sounds weird to you I know ..  
+That might sounds weird to you I know ..  
 But after knowing more about programming using c++ language I couldn't leave it.  
 I started my journey with *Problem solving ,Data structures and algorithms* then participated in many *problem solving contests* to decide to go for software development career, and **here I am**.   
 
